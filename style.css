@@ -55,7 +55,7 @@ li{
 }
 .content{    
      margin: 20px auto;
-     background-color:#8B6D5C;
+     background-color:#87CEFA;
      padding: 20px;
 }
 
@@ -78,7 +78,7 @@ li{
 
 table {
     font-size: 15px;
-    background-color: #8B6D5C;
+    background-color: pink;
 }
 td, th{
     color: black;
@@ -89,7 +89,7 @@ td, th{
 }
 
 th{
-    background: #b0d05e;
+    background: #A9A9A9;
 }
 tr:nth-child(even){
     background-color: pink;
