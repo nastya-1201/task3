@@ -76,20 +76,13 @@ li{
 #forma{    order:2;
 }
 
-.content{
-    max-width:800px;
-    margin: 20px auto;
-    padding:10px;
-    background-color:#d1ebff;
-}
-
 table {
     font-size: 15px;
     background-color: #8B6D5C;
 }
 td, th{
     color: black;
-    border: 1px solid palegreen;
+    border: 1px solid black;
     padding: 5px;
     margin: 1px;
 
@@ -103,7 +96,7 @@ tr:nth-child(even){
 }
 
 tr:nth-child(odd){
-    background-color: #b0d05e;
+    background-color: #A9A9A9;
 }
 form{
     max-width: 80%;    width: 300px;
