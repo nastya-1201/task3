@@ -84,12 +84,15 @@ li{
 }
 
 table {
-    font-size: 20px;
+    font-size: 15px;
     background-color: #ffb8c6;
 }
 td, th{
-    padding: 10px;
     color: black;
+    border: 1px solid palegreen;
+    padding: 5px;
+    margin: 1px;
+
 }
 
 th{
